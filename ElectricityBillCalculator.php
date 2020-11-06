@@ -1,3 +1,3 @@
 <?php
-include_once "ElectricityBillCalculator.html"
+include_once "ElectricityBillCalculator.html";
 ?>
